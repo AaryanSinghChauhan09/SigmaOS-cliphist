@@ -3,7 +3,7 @@ name = "SigmaOS-cliphist"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "cliphist component"
+description = "SigmaOS SigmaOS-cliphist component"
 upstream = []
 
 [contract]
